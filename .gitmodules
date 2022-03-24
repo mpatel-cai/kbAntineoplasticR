@@ -1,0 +1,3 @@
+[submodule "inst/kb_antineoplastic"]
+	path = inst/kb_antineoplastic
+	url = https://github.com/PrecisionHealthIntelligence/kb_antineoplastic.git
